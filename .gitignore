@@ -1,3 +1,4 @@
-apiforge
+# Top-level binary only — keep cmd/apiforge/ tracked.
+/apiforge
 *.test
 .DS_Store
